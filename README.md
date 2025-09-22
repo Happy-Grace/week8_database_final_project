@@ -130,8 +130,8 @@ Views are created for common and important queries to:
 
 ### Contact
 
-Done by *C. Divinegift Akuwudiike*
-For questions or contributions, please open an issue or submit a pull request.
+- Done by *C. Divinegift Akuwudiike*
+- For questions or contributions, please open an issue or submit a pull request.
 
 ---
 
